@@ -8,9 +8,3 @@ U /"___|   \/"_ \/ |  _"\    ___     | \ |"| U /"___|u    U|' \/ '|u   ___     |
  _// \\      \\     |||_.-,_|___|_,-.||   \\,-._)(|_      <<,-,,-..-,_|___|_,-.||   \\,-._)(|_   
 (__)(__)    (__)   (__)_)\_)-' '-(_/ (_")  (_/(__)__)      (./  \.)\_)-' '-(_/ (_")  (_/(__)__)  
 ```
-
-
-
-## Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=Swilder-M)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Swilder-M&layout=compact)
